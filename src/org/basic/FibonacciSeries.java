@@ -35,6 +35,9 @@ private void class4() {
 
 	System.out.println("LEO");
 }
+	public void class5(){
+		system.out.println("money money")
+		}
 
 public static void main(String[] args) {
 	FibonacciSeries fab = new FibonacciSeries();
@@ -43,7 +46,7 @@ public static void main(String[] args) {
 	fab.class2();
 	fab.class3();
 	fab.class4();
-	
+	fab.class5();
 //	
 //<<<<<<< HEAD	
 //=======
